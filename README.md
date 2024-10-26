@@ -39,7 +39,7 @@ Voice is a cutting-edge e-commerce platform focused on selling TWS headphones an
 
 ## Images of Project
 
-![image](https://github.com/user-attachments/assets/47713089-3399-44d0-b0b3-870940d76995) <Br/>
+![image](https://github.com/user-attachments/assets/47713089-3399-44d0-b0b3-870940d76995) <Br/> <Br/>
 ![image](https://github.com/user-attachments/assets/bf64c29c-930f-4836-a034-2431aef8bc9e) <Br/>
 ![image](https://github.com/user-attachments/assets/731d290d-aed3-4c2e-a678-149a4d2b15b4) <Br/>
 ![image](https://github.com/user-attachments/assets/f6abed70-d67f-44f0-b119-cdf2ee8eb4a6) <Br/>
