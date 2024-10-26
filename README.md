@@ -40,11 +40,11 @@ Voice is a cutting-edge e-commerce platform focused on selling TWS headphones an
 ## Images of Project
 
 ![image](https://github.com/user-attachments/assets/47713089-3399-44d0-b0b3-870940d76995) <Br/> <Br/>
-![image](https://github.com/user-attachments/assets/bf64c29c-930f-4836-a034-2431aef8bc9e) <Br/>
-![image](https://github.com/user-attachments/assets/731d290d-aed3-4c2e-a678-149a4d2b15b4) <Br/>
-![image](https://github.com/user-attachments/assets/f6abed70-d67f-44f0-b119-cdf2ee8eb4a6) <Br/>
-![image](https://github.com/user-attachments/assets/441f4998-a75b-4d6f-9944-a4f140c15b88) <Br/>
-![image](https://github.com/user-attachments/assets/79332190-55e3-4417-b890-fb513f67bea7) <Br/>
-![image](https://github.com/user-attachments/assets/0a17ae8a-e56d-4cab-9559-5ae5e135368a) <Br/>
-![image](https://github.com/user-attachments/assets/d6f547f9-6918-4a26-a8e0-5b150305a40d) <Br/>
+![image](https://github.com/user-attachments/assets/bf64c29c-930f-4836-a034-2431aef8bc9e) <Br/> <Br/>
+![image](https://github.com/user-attachments/assets/731d290d-aed3-4c2e-a678-149a4d2b15b4) <Br/> <Br/>
+![image](https://github.com/user-attachments/assets/f6abed70-d67f-44f0-b119-cdf2ee8eb4a6) <Br/> <Br/>
+![image](https://github.com/user-attachments/assets/441f4998-a75b-4d6f-9944-a4f140c15b88) <Br/> <Br/>
+![image](https://github.com/user-attachments/assets/79332190-55e3-4417-b890-fb513f67bea7) <Br/> <Br/>
+![image](https://github.com/user-attachments/assets/0a17ae8a-e56d-4cab-9559-5ae5e135368a) <Br/> <Br/>
+![image](https://github.com/user-attachments/assets/d6f547f9-6918-4a26-a8e0-5b150305a40d) <Br/> <Br/>
   
