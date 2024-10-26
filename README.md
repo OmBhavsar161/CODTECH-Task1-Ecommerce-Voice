@@ -29,9 +29,14 @@ Voice is a cutting-edge e-commerce platform focused on selling TWS headphones an
 - **Authentication**: JWT-based session management for user security.
 - **Payment Integration**: Stripe API for safe online transactions.
 
+
 ## Admin Capabilities
 
 - **Product Management**: Add, edit, or delete products from the catalog.
 - **User Management**: View registered users’ data (excluding cart information).
 - **Inventory Management**: Monitor stock levels and update quantities.
 - **Support Management**: Manage customer inquiries and support data.
+
+## Images of Project
+
+![image](https://github.com/user-attachments/assets/47713089-3399-44d0-b0b3-870940d76995)
